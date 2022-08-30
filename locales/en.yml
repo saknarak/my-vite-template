@@ -1,0 +1,10 @@
+auth:
+  welcome: Welcome
+  user: Username
+  pass: Password
+  remember: Remember Username
+  forgot: Forgot Password?
+  signin: Sign-in
+  hint: Please enter your username and password
+  err:
+    user_not_found: Username or password incorrect, please check
